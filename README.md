@@ -1,15 +1,28 @@
 # TeamBrownie
 
+## 📝 연구 개요
+- 아직 논의 중
+
 ## 팀원👩‍💻
 
 |[양인경](https://github.com/Rosieyang01)|[장한나](https://github.com/Hanna07111)|[정진이](https://github.com/Jeannie159)|
 |:--:|:--:|:--:|
 |이화여자대학교 22학번 컴퓨터공학과, 수학과|이화여자대학교 21학번 통계학과, 컴퓨터공학과|이화여자대학교 20학번 스포츠과학전공, 컴퓨터공학과, 심리학과, 글로벌스포츠산업전공|
 
-## 회의록📄
-https://funky-nut-70f.notion.site/264c99778d828001bcabd886e0cb782f?source=copy_link
-
 ## 진행상황 🔍
-교수님 컨택 중
+- 기초 논문 서칭 중 (CLIP, 지식증류, 프루닝 etc)
 
-readme, ground rule, ideation 작성 완료
+
+## 🚀 기대 효과
+
+
+
+## 회의록 정리 📋
+
+
+
+### 9월 회의록
+
+| 날짜       | 내용                                               | 상세 내용  |
+|------------|----------------------------------------------------|------------|
+| **2024-09-04** | repo 관리 및 연구분야 조사                     | [회의록 보기](https://funky-nut-70f.notion.site/264c99778d8280f58de3d0839d9aaf0c?source=copy_link) |
