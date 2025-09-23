@@ -11,7 +11,8 @@
 
 ## 진행상황 🔍
 - 논문 스터디 진행 중
-  | 순번       | 논문 제목                                               | 진행 일정  |
+
+| 순번       | 논문 제목                                               | 진행 일정  |
 |------------|----------------------------------------------------|------------|
 | 1 | Distilling the Knowledge in a Neural Network            | 9/19 완료 |
 | 2 | Learning Transferable Visual Models From Natural Language Supervision   | 10/2 |
