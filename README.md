@@ -18,8 +18,8 @@
 | 순번       | 논문 제목                                               | 진행 일정  |
 |------------|----------------------------------------------------|------------|
 | 1 | Distilling the Knowledge in a Neural Network            | 9/19 완료 |
-| 2 | Learning Transferable Visual Models From Natural Language Supervision   | 10/2 |
-| 3 | TinyCLIP: CLIP Distillation via Affinity Mimicking and Weight Inheritance   | 10/10 |
+| 2 | Learning Transferable Visual Models From Natural Language Supervision   | 10/2 완료 |
+| 3 | TinyCLIP: CLIP Distillation via Affinity Mimicking and Weight Inheritance   | 10/11 완료 |
 
 - 지도교수님과 정기적인 미팅 : 2주에 1회(목요일 14:00)
 -   10/16 예정
