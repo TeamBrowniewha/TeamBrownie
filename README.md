@@ -10,7 +10,7 @@
 
 |[양인경](https://github.com/Rosieyang01)|[장한나](https://github.com/Hanna07111)|[정진이](https://github.com/Jeannie159)|
 |:--:|:--:|:--:|
-|이화여자대학교 22학번 컴퓨터공학과, 수학과|이화여자대학교 21학번 통계학과, 컴퓨터공학과|이화여자대학교 20학번 스포츠과학전공, 컴퓨터공학과, 심리학과, 글로벌스포츠산업전공|
+|이화여자대학교 22학번 컴퓨터공학과, 수학과<br> - 지식 증류 임베딩 유사도 및 손실 함수 정의<br> - 깃허브 관리<br> - 교수님 컨택 |이화여자대학교 21학번 통계학과, 컴퓨터공학과<br> - 아키텍처 연구 및 논문 작성 <br> - 팀 일정 관리|이화여자대학교 20학번 스포츠과학전공, 컴퓨터공학과, 심리학과, 글로벌스포츠산업전공 <br> - 회의 안건 제시<br> - 모델 구축 및 운영 <br> - 자료 취합 및 제출|
 
 ## 진행상황 🔍
 - 논문 스터디 진행 중
@@ -20,23 +20,32 @@
 | 1 | Distilling the Knowledge in a Neural Network            | 9/19 완료 |
 | 2 | Learning Transferable Visual Models From Natural Language Supervision   | 10/2 완료 |
 | 3 | TinyCLIP: CLIP Distillation via Affinity Mimicking and Weight Inheritance   | 10/11 완료 |
+| 4 | TinyCLIP 발전 논문 리딩 | 11/7 예정 |
 
 - 지도교수님과 정기적인 미팅 : 2주에 1회(목요일 14:00)
--   10/16 예정
+-   10/16 완료
+-   11/7 예정 (금요일 14:00)
 
 
 
 ## 🚀 기대 효과
-- 멀티모달 모델 경량화 및 배포 효율성 증가
+- 배터리 및 연산 효율성 향상
+- 상용화 가능성
+- AI 기능 범용화 및 대중화
 
 
 ## 회의록 정리 📋
 
 
 
-### 9월 회의록
+### 회의록
 
 | 날짜       | 내용                                               | 상세 내용  |
 |------------|----------------------------------------------------|------------|
 | **2025-09-04** | repo 관리 및 연구분야 조사                     | [회의록 보기](https://funky-nut-70f.notion.site/264c99778d8280f58de3d0839d9aaf0c?source=copy_link) |
 | **2025-09-23** | 지도교수님과 면담 및 스터디 계획                 | [회의록 보기](https://funky-nut-70f.notion.site/9-23-277c99778d8280f48f88e2fbb20540a8?source=copy_link) |
+| **2025-09-30** | 김규호교수님과 면담 및 스터디 계획                 | [회의록 보기](https://funky-nut-70f.notion.site/27ec99778d8280c18ddeeafd400b9c42?source=copy_link) |
+| **2025-10-02** | 중간 발표 자료 준비                 | [회의록 보기](https://funky-nut-70f.notion.site/27ec99778d82807fac05e2a4e35cef72?source=copy_link) |
+| **2025-10-14** | 중간 발표 대본 작성                 | [회의록 보기](https://funky-nut-70f.notion.site/28cc99778d82803f9b10fd07dccf39a8?source=copy_link) |
+| **2025-10-16** | 지도교수님 면담                 | [회의록 보기](https://funky-nut-70f.notion.site/10-16-28cc99778d8280f3b7cde635da04029a?source=copy_link) |
+
