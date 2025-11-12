@@ -17,7 +17,7 @@
 - TinyCLIP 파생 논문 리딩 후 실험 : 지도교수님 심재형 교수님 2025/10/16
 - CLIP-KD 리딩 후 실험
 
-Key words : 멀티모달, TinyCLIP, CLIP-KD, 경량화(KD), Loss function
+**Key words** : 멀티모달, TinyCLIP, CLIP-KD, 경량화(KD), Loss function
 
 - 누구를 위해 : AI 및 대규모 멀티모달 모델 연구원들을 위해, 대규모 멀티모달 모델을 활용하여 서비스를 개발하고자 하는 스타트업을 위해
 
