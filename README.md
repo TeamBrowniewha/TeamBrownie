@@ -31,6 +31,11 @@
 | 4 | CLIP-KD: An Empirical Study of CLIP Model Distillation | 10/31 완료 |
 | 5 | Distill CLIP (DCLIP): Enhancing Image-Text Retrieval via Cross-Modal Transformer Distillation | 11/6 완료 |
 
+### 실험 진행 🧪
+-   1차 실험 : CLIP-KD 모델의 CIFAR-10, CIFAR-100 성능 측정
+-   2차 실험: CLIP-KD 모델의 각 기법별 제로샷 성능 측정
+-   3차 실험: CLIP-KD 모델의 기법 조합별 제로샷 성능 측정
+
 ### 지도교수님과 정기적인 미팅 🧑‍💻
 2주에 1회 (목/금요일 14:00)
 | 날짜       | 진행 사항  |
@@ -39,11 +44,6 @@
 | 11/7 | CLIP-KD, Distill CLIP 스터디 완료 및 실험 1차 보고 |
 | 11/20 | 실험 2차 보고 및 가설 검토 |
 | 11/28 | 실험 3차 보고 |
-
-### 실험 진행 🧪
--   1차 실험 : CLIP-KD 모델의 CIFAR-10, CIFAR-100 성능 측정
--   2차 실험: CLIP-KD 모델의 각 기법별 제로샷 성능 측정
--   3차 실험: CLIP-KD 모델의 기법 조합별 제로샷 성능 측정
 
 
 
